@@ -26,6 +26,7 @@
     "electron-store": "^11.0.2",
     "electron-updater": "^6.8.3",
     "extract-zip": "^2.0.1",
+    "prettier": "^3.8.2",
     "tar": "^7.4.0",
     "youtube-dl-exec": "^3.1.4",
     "zero-query": "^1.0.9"
